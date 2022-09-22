@@ -1,0 +1,7 @@
+{
+    "DB_CONF": "host=xx port=xx dbname=xx user=xx password=xx",
+    "API_AID": "<api account id>",
+    "API_AUT": "<api authorization>",
+    "API_PRE": "<api prefix>",
+    "API_CTT": "application/json"
+}
